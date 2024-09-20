@@ -2,4 +2,4 @@ name := "learning-scala"
 
 version := "0.1"
 
-scalaVersion := "2.13.14"
+scalaVersion := "2.13.15"
